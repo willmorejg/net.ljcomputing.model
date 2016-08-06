@@ -1,9 +1,4 @@
-#set( $symbol_pound = '#' )
-#set( $symbol_dollar = '$' )
-#set( $symbol_escape = '\' )
+README for module net.ljcomputing.model
+=======================================
 
-README for module ${artifactId}
-===============================
-
-This module belongs to the project ${rootArtifactId}
-
+LJ Computing Model project
