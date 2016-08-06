@@ -6,7 +6,7 @@
 'UTF-8'
 -private
 -sourcepath
-'/home/jim/workspace/net.ljcomputing.model/src/main/java'
+'/home/jim/git/net.ljcomputing.model.git/net.ljcomputing.model/src/main/java'
 -inferrel -inferdep -quiet -hide java.*
       -collpackages java.util.* -qualify
       -postfixpackage
@@ -17,13 +17,13 @@
 -charset
 'UTF-8'
 -d
-'/home/jim/workspace/net.ljcomputing.model/docs/javadoc/apidocs'
+'/home/jim/git/net.ljcomputing.model.git/net.ljcomputing.model/docs/javadoc/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
 'LJ Computing - Model 1.0.0-SNAPSHOT API'
 -linkoffline
-'http://docs.oracle.com/javase/8/docs/api' '/home/jim/workspace/net.ljcomputing.model/target/javadoc-bundle-options'
+'http://docs.oracle.com/javase/8/docs/api' '/home/jim/git/net.ljcomputing.model.git/net.ljcomputing.model/target/javadoc-bundle-options'
 -linksource
 -tag
 "todo:a:To Do:"
