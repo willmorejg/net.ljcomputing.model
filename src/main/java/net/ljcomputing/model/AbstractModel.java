@@ -26,7 +26,7 @@ package net.ljcomputing.model;
 public abstract class AbstractModel implements Model {
   
   /** The id. */
-  protected Integer id;
+  private Integer id;
   
   /**
    * @see net.ljcomputing.model.Model#getId()
